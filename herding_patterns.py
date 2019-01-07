@@ -1,4 +1,6 @@
 
+# Reference: Bioinformatics Algorithms Compeau & Pevzner
+
 class Node():
     def __init__(self, nodeId, baseSequence):
         self.nodeId = nodeId
